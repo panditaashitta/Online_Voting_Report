@@ -1,0 +1,15 @@
+{
+  "name": "automatic-voting-report",
+  "version": "1.0.0",
+  "description": "Automatic report generation for blockchain voting data",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "web3": "^1.10.0",
+    "mysql2": "^3.6.5",
+    "openai": "^4.20.1",
+    "dotenv": "^16.3.1"
+  }
+}
